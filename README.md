@@ -7,8 +7,8 @@ https://github.com/user-attachments/assets/5f00a90d-9568-495d-a86a-2c2cfcfc5ffa
 
 
 # 🚀 Features:
-✔ Real-time Digital Clock with hours, minutes, and seconds
-✔ AM/PM Indicator positioned beside the clock
+<li>✔ Real-time Digital Clock with hours, minutes, and seconds</li>
+<li></li>✔ AM/PM Indicator positioned beside the clock</li>
 ✔ Live Date & Day Display
 ✔ Dark/Light Mode Toggle 🌙🌞
 ✔ 12/24-Hour Format Switching
