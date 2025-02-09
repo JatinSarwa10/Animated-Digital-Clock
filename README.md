@@ -8,10 +8,13 @@ https://github.com/user-attachments/assets/5f00a90d-9568-495d-a86a-2c2cfcfc5ffa
 
 # 🚀 Features:
 <li>✔ Real-time Digital Clock with hours, minutes, and seconds</li>
-<li></li>✔ AM/PM Indicator positioned beside the clock</li>
-✔ Live Date & Day Display
-✔ Dark/Light Mode Toggle 🌙🌞
-✔ 12/24-Hour Format Switching
-✔ Animated Circular Progress Bars for time visualization
+<li>✔ AM/PM Indicator positioned beside the clock</li> 
+<li>✔ Live Date & Day Display </li>
+<li>✔ Dark/Light Mode Toggle 🌙🌞</li>
+<li>✔ 12/24-Hour Format Switching </li>
+<li>✔ Animated Circular Progress Bars for time visualization</li>
 
+# Clone 
+``` bash
+https://github.com/JatinSarwa10/Animated-Digital-Clock
 
